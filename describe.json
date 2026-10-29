@@ -1,0 +1,22 @@
+{
+  "tools": [
+    {
+      "name": "content_companion_view_work",
+      "description": "",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "target": {
+            "type": "string",
+            "description": "仅多会话同批时填写本批会话地址。"
+          }
+        },
+        "required": []
+      },
+      "tags": [
+        "read"
+      ]
+    }
+  ],
+  "events": []
+}

@@ -1,0 +1,26 @@
+{
+  "originalAuthor": "menglimi",
+  "originalRepository": "https://github.com/menglimi/astrbot_plugin_content_companion",
+  "upstreamVersion": "0.2.2",
+  "portMaintainer": "Kpect10086",
+  "portVersion": "0.2.2-cortico.1",
+  "official": false,
+  "certification": "not claimed",
+  "upstream": {
+    "commit": "78d8889ccc984834069244f37cab9766e0b58950",
+    "files": {
+      ".codex-plugin/plugin.json": "01c4a0d9e8415217f84cf1ef9adfeccde6cb9082a0df79785f9bae2c84d3d5ea",
+      ".gitignore": "83addce9d0a0f221ba35a3191c233b6df4b5f300b1515b6506dc0fd8b2aa2bf5",
+      "CHANGELOG.md": "57bdb9119a9ec81fd65266175367764191e7fc7fa105fdefb36bdc782434d5f7",
+      "README.md": "bc8978bd85e7d844f41ea45f437de104312eaf18c4a53f4c46521e3528211352",
+      "_conf_schema.json": "73879c23b6e2923c32ea3a7232657aef7fd5dbe3c83f984c5e018ee4856855dd",
+      "constants.py": "c2baf8127204c12e2464277066c5efe3473884f4ba311307bfe0d8ba623531dc",
+      "creative.py": "315a24aea17e546a044b888412d495caabb47ca1e757812d4bc7d864c2b645c9",
+      "helpers.py": "73ac26d6b53cde1065f259b713e9556e187a77394f0ffcba9e6ca9a6718ffdcb",
+      "main.py": "b078371df29bfa89268f176b4a9fafbc27c313019a49df867d141ad692591bf5",
+      "metadata.yaml": "b31723ee743bffa3232b1832d3bb142c55fcaaefb6e80b56d26784f005200314",
+      "tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tests/test_standalone_content.py": "ac5c8db6b1f83e08a62aa6e740c3d06b378bbe1d3f302955c811d41db6dae40f"
+    }
+  }
+}
